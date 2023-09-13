@@ -1,7 +1,9 @@
 Hi my name is Ilmari or Polari on Internet. Studying gamedevelopment and programming. 
 Still at learning new stuff daily. 
-If  you want to contact me discord is probs best bet right now 
-Polari#5395
+If  you want to contact me you can send me email to 
+ilmari.vainio01@gmail.com
+or trough Linkedin 
+Ilmari Vainio 
 
 
 <!---
