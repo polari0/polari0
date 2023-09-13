@@ -2,7 +2,7 @@ Hi my name is Ilmari or Polari on Internet. Studying Game development and progra
 I have few released projects some of witch you can find from this GitHub page but for easier search look trough my 
 [itch.io](https://polari0.itch.io/) protfolio with all the projects prototypes and Demos I have worked on and realeased listed out. 
 
-You can also take a look at my personal library of reusable functionalities I have made for different often unrealesed projects from [here](https://github.com/polari0/Portfolio)
+You can also take a look at my code snippet library of reusable functionalities I have made for different often unrealesed projects from [here](https://github.com/polari0/Portfolio)
 
 If  you want to contact me you can send me email to 
 ilmari.vainio01@gmail.com
