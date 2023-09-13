@@ -3,13 +3,12 @@ I have few released projects some of witch you can find from this GitHub page bu
 itch.io protfolio with all the projects prototypes and Demos I have worked on and realeased listed out. 
 https://polari0.itch.io/
 
-You can also take a look at my personal library of reusable functionalities I have made for different often unrealesed projects from here 
-https://github.com/polari0/Portfolio
+You can also take a look at my personal library of reusable functionalities I have made for different often unrealesed projects from [here](https://github.com/polari0/Portfolio)
 
 If  you want to contact me you can send me email to 
 ilmari.vainio01@gmail.com
 or trough Linkedin 
-Ilmari Vainio 
+[Ilmari Vainio](https://www.linkedin.com/in/ilmari-vainio-44494521a/)
 
 
 <!---
